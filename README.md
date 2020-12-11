@@ -30,6 +30,7 @@ O projeto original reúne uma tela simplificada quando o usúario está conectad
 
 ## Ferramentas/Tecnologias Utilizadas:
 - VsCode;
+- Live Server;
 - JavaScript;
 - JQuery;
 - Framework: Owl Carousel
