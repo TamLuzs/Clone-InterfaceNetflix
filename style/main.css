@@ -1,0 +1,154 @@
+/*Declaração de Variaveis de Cores*/
+:root{
+    --red: #e50914;
+    --black: #141414;
+    --opacityBlack: #00000080;
+    --grey: #aaaaaa;  
+    --white: #ffffff;  
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--black);
+    font-family: 'Times New Roman', Times, serif;
+    color: var(--white);
+}
+
+header .container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0  25px;
+    text-transform: uppercase;
+}
+
+header .logo{
+    color: var(--red);
+    font-family: 'Arial Black';
+    font-size: 45px;
+    cursor: pointer;
+}
+
+header nav a{
+    text-decoration: none;
+    color: var(--grey);
+
+    margin-right: 12px;
+}
+
+header nav a:hover{
+    color: var(--white);
+}
+
+/* Banner Principal */
+.filme-principal{
+    font-size: 16px;
+
+    background-image: linear-gradient(var(--opacityBlack),var(--opacityBlack)100%), url('../images/capa-house.jpg');
+    height: 400px;
+    padding: 0  25px;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filme-principal .descricao{
+    margin-bottom: 40px;
+    margin-top: 10px;
+} 
+
+.filme-principal .titulo{
+    font-size: 45px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+
+    margin-top: 5%;
+}
+
+.filme-principal .botao{
+    background-color: var(--opacityBlack);
+    border: none;
+    padding:  15px 30px;
+    margin-right: 15px;
+    cursor: pointer; /*Muda o cursor para identificar ele como Button*/
+
+    color: var(--white);
+    font-size: 12px;
+
+    transition: .3s ease all; /*Animação do Button*/
+}
+
+.botao:hover{
+    background-color: var(--white);
+    color: var(--black);
+}
+
+.botao i{
+    margin-right:  8px;
+}
+
+.containe{
+    margin-left: 20px;
+}
+
+.filme-principal .container{
+    width: 70%;
+}
+
+/* Carrossel */
+.carrosel-titulo{
+    color: var(--grey);
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-size: 23px;    
+    padding: 20px 5px;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+}
+
+.carrosel-filmes{
+    margin-top: 10px;
+}
+
+.box-filme:hover{
+    opacity: 0.1;
+}
+
+.item:hover{
+    background-color: var(--red);
+    background-image: url('../images/play.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 15px center;
+}
+
+/* Rodapé */
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    width: 100%;
+}
+
+.criador{
+    text-align: center;
+    font-size: 15px;
+    color: var(--grey);
+}
+
+/* Remover Nav/Pagination Padrão*/
+.owl-theme .owl-nav.disabled + .owl-dots {
+    display: none;
+}
