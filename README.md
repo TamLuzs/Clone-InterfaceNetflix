@@ -1,5 +1,7 @@
 # Clone da Interface do Netflix
-<!-- Imagem do Logo -->
+<p align="center">
+  <img src="https://www.popsci.com/resizer/0eQsCPRWhjB3PNPxqrtRnPNGxwA=/1200x628/smart/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/AUSBJ7SDRWXMD7VXVNJASUT6ME.jpg">
+</p>
 
 ## Introdução
 Esse repositório é referente as implementações de melhorias que fiz sobre o projeto de recriação da interface do Netflix o principal site de streaming mundial, abordado no bootcamp - HTML Web Developer da <a href="https://web.digitalinnovation.one">Digital Innovation One</a>.
