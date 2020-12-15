@@ -4,7 +4,7 @@
 </p>
 
 ## Introdução
-Esse repositório é referente as implementações de melhorias que fiz sobre o projeto de recriação da interface do Netflix o principal site de streaming mundial, abordado no bootcamp - HTML Web Developer da <a href="https://web.digitalinnovation.one">Digital Innovation One</a>.
+Esse repositório é referente as implementações e melhorias que fiz sobre o projeto de recriação da interface do Netflix o principal site de streaming mundial, abordado no bootcamp - HTML Web Developer da <a href="https://web.digitalinnovation.one">Digital Innovation One</a>.
 
 ## Informação do Projeto
 O projeto original reúne uma tela simplificada quando o usúario está conectado no site.
