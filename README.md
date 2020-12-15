@@ -6,7 +6,7 @@
 ## Introdução
 Esse repositório é referente as implementações e melhorias que fiz sobre o projeto de recriação da interface do Netflix o principal site de streaming mundial, abordado no bootcamp - HTML Web Developer da <a href="https://web.digitalinnovation.one">Digital Innovation One</a>.
 
-## Informação do Projeto
+## 📋 Informação do Projeto
 O projeto original reúne uma tela simplificada quando o usúario está conectado no site.
 
 - Menu Simples (Logo e Categoria de Conteúdo);
@@ -15,7 +15,7 @@ O projeto original reúne uma tela simplificada quando o usúario está conectad
 
 <br/><br/>
 
-<b> Implementação Futura </b>
+<b> 💡 Implementação Futura </b>
 - [x] Menu: Incluir Símbolo de busca, perfil(Direciona para conta do GitHub) e botão com opção de "Minha Conta" e "Sair".
 - [x] Botão (Mais Informação): Direcionar para seção de detalhes do filme/série. 
 - [x] Botão (Assistir Agora): Direcionar para canal do Netflix no trailer do filme/série. 
@@ -29,7 +29,7 @@ O projeto original reúne uma tela simplificada quando o usúario está conectad
 
 <br/>
 
-### Layout
+### 💻 Layout
 <p align="center">
     <img src="https://github.com/TamLuzs/Clone-InterfaceNetflix/blob/main/layout/home.png">
 </p>
@@ -52,7 +52,7 @@ O projeto original reúne uma tela simplificada quando o usúario está conectad
     <img src="https://github.com/TamLuzs/Clone-InterfaceNetflix/blob/main/layout/login.PNG">
 </p>
 
-## Ferramentas/Tecnologias Utilizadas:
+## 📦 Ferramentas/Tecnologias Utilizadas:
 - VsCode;
 - Live Server;
 - JavaScript;
