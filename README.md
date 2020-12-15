@@ -26,30 +26,27 @@ O projeto original reúne uma tela simplificada quando o usúario está conectad
 - [x] Rodapé.
 
 
-### Layout da Estrutura
-- Home
+### Layout
 <p align="center">
-    <img src="">
+    <img src="https://github.com/TamLuzs/Clone-InterfaceNetflix/blob/main/layout/home.png">
 </p>
 
-- Menu
 <p align="center">
-    <img src="">
+    <img src="https://github.com/TamLuzs/Clone-InterfaceNetflix/blob/main/layout/menu.png">
 </p>
 
-- Detalhes do Filme/Série
 <p align="center">
-    <img src="">
+    <img src="https://github.com/TamLuzs/Clone-InterfaceNetflix/blob/main/layout/intro.png">
 </p>
 
-- Logout
+
 <p align="center">
-    <img src="">
+    <img src="https://github.com/TamLuzs/Clone-InterfaceNetflix/blob/main/layout/logout.PNG">
 </p>
 
-- Login
+
 <p align="center">
-    <img src="">
+    <img src="https://github.com/TamLuzs/Clone-InterfaceNetflix/blob/main/layout/login.PNG">
 </p>
 
 ## Ferramentas/Tecnologias Utilizadas:
