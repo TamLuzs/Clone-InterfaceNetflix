@@ -14,10 +14,11 @@ O projeto original reúne uma tela simplificada quando o usúario está conectad
 - Carrossel de Filmes.
 
 <b> Implementação Futura </b>
-- [x] Menu: Incluir Símbolo de busca, perfil e botão com opção de "Minha Conta" e "Sair".
-- [x] Botão (Mais Informação): Direcionar para seção de detalhes do filme. 
-- [x] Seção Detalhes do Filme: Inclui descrição do filme, quantidade de temporada, gênero e carrossel de imagens. 
-- [x] Seção Login/Entrar. <i> (Em Produção) </i>
+- [x] Menu: Incluir Símbolo de busca, perfil(Direciona para conta do GitHub) e botão com opção de "Minha Conta" e "Sair".
+- [x] Botão (Mais Informação): Direcionar para seção de detalhes do filme/série. 
+- [x] Botão (Assistir Agora): Direcionar para canal do Netflix no trailer do filme/série. 
+- [x] Seção Detalhes do Filme/Série: Incluir descrição do filme, quantidade de temporada, gênero e carrossel de imagens. 
+- [x] Seção Login/Entrar. 
 - [x] Seção Logout/Sair. 
 - [x] Inserir Favicon.
 - [x] Banner do Filme: Inserir botão play.
@@ -26,14 +27,30 @@ O projeto original reúne uma tela simplificada quando o usúario está conectad
 
 
 ### Layout da Estrutura
+- Home
 <p align="center">
-    <video width="650" height="500" muted autoplay>
-        <source src="layout/video.mp4"type="video/mp4">
-        Seu navegador não suporta a tag de vídeo.
-    </video>
+    <img src="">
 </p>
 
-<video src="layout/video.mp4"></video>
+- Menu
+<p align="center">
+    <img src="">
+</p>
+
+- Detalhes do Filme/Série
+<p align="center">
+    <img src="">
+</p>
+
+- Logout
+<p align="center">
+    <img src="">
+</p>
+
+- Login
+<p align="center">
+    <img src="">
+</p>
 
 ## Ferramentas/Tecnologias Utilizadas:
 - VsCode;
