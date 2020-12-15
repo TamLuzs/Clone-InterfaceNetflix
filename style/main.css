@@ -16,7 +16,7 @@
 
 body{
     background-color: var(--black);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
     color: var(--white);
     
 }
@@ -26,6 +26,9 @@ section{
     padding-right: 30px;
 }
 
+.link{
+    text-decoration: none; 
+}
 
 /*Menu e Nav */
 

@@ -1,0 +1,109 @@
+#page-login{
+    background-image:linear-gradient(var(--opacityBlack),var(--opacityBlack)100%), url('../images/wallpaper.jpg');
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+/* Menu */
+.nav-login{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0  25px;
+}
+
+
+/*Seção Logout*/
+.container-login{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.login{
+    width: 500px;
+    height: 550px;
+    padding: 60px;
+    background-color:  var(--black);
+    color: var(--white);
+}
+
+.login .title-login{
+    font-size: 35px;
+    padding-bottom: 20px;
+    color: var(--white);
+}
+
+/*Formulario*/
+.form-login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.input-form{
+    padding: 20px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    color: var(--white);
+    background-color: rgba(116, 116, 116, 0.40);
+}
+
+.btn-login{
+    margin-top: 30px;
+    width: 380px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: var(--red);
+
+    text-align: center;
+    color: var(--white);
+    text-decoration: none;
+}
+
+/*Frases e Ajuda*/
+article{
+    color: var(--grey);
+}
+
+.remember-help{
+    padding: 20px 0 35px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 14px;
+}
+
+.connection{  
+    padding: 15px 0 10px 0 ;
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+}
+
+.connection img{
+    width: 32px;
+    height: 25px;
+    padding-right: 8px;
+}
+
+.phrase-white{
+    color: var(--white);
+}
+
+.phrase{
+    margin-top: 30px;
+    font-size: 13px;
+}
+
+.phrase-blue{
+    color: var(--blue);
+}
+
+.underline:hover{
+    text-decoration: underline;
+}
