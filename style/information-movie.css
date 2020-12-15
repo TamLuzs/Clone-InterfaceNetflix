@@ -1,0 +1,51 @@
+.details-movie{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.description-movie{
+    width: 80%;
+    margin-bottom: 30px;
+}
+
+.btn-movie-genera{
+    margin: 0 25px;
+}
+
+.btn-movie{
+    padding: 10px;
+}
+
+.btn-movie:hover{
+    background-color: var(--white);
+    color: var(--black);
+}
+
+
+/* Carrossel */
+.carrosel-titulo{
+    color: var(--grey);
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-size: 23px;    
+    padding: 20px 5px;
+}
+
+.box-images{
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+}
+
+.carrosel-images{
+    margin-top: 10px;
+}
+
+img.box-images{
+    width: 100px;
+    height: 300px;
+}
+
+.box-images:hover{
+    border: 2px solid var(--grey);
+}

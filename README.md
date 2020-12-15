@@ -13,13 +13,12 @@ O projeto original reúne uma tela simplificada quando o usúario está conectad
 
 
 <b> Implementação Futura </b>
-- [ ] Menu: Incluir Símbolo de busca, perfil e botão com opção de "Minha Conta" e "Sair". <i> (Em Produção) </i>
-- [ ] Botão (Mais Informação): Direcionar para seção de detalhes do filme. <i> (Em Produção) </i>
-- [ ] Seção Detalhes do Filme: Inclui descrição do filme, duração, quantidade de temporada, trailer e imagens. <i> (Em Produção) </i>
-- [ ] Seção Entrar. <i> (Em Produção) </i>
-- [ ] Seção Cadastrar. <i> (Em Produção) </i>
-- [ ] Seção Logout/Sair. <i> (Em Produção) </i>
-- [ ] Seção Minha Conta. <i> (Em Produção) </i>
+- [x] Menu: Incluir Símbolo de busca, perfil e botão com opção de "Minha Conta" e "Sair".
+- [x] Botão (Mais Informação): Direcionar para seção de detalhes do filme. 
+- [x] Seção Detalhes do Filme: Inclui descrição do filme, quantidade de temporada, gênero e carrossel de imagens. 
+- [ ] Seção Login/Entrar. <i> (Em Produção) </i>
+- [x] Seção Logout/Sair. 
+- [x] Inserir Favicon.
 - [x] Banner do Filme: Inserir botão play.
 - [x] Titulo no Carrossel.
 - [x] Rodapé.
@@ -32,5 +31,5 @@ O projeto original reúne uma tela simplificada quando o usúario está conectad
 - VsCode;
 - JavaScript;
 - JQuery;
-- Framework: Owl Carousel
+- Framework: Owl Carousel e FontAwesome;
 - HTML5 e CSS3 / HTML e CSS.
