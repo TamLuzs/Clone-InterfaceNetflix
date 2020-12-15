@@ -13,6 +13,8 @@ O projeto original reúne uma tela simplificada quando o usúario está conectad
 - Banner Principal;
 - Carrossel de Filmes.
 
+<br/><br/>
+
 <b> Implementação Futura </b>
 - [x] Menu: Incluir Símbolo de busca, perfil(Direciona para conta do GitHub) e botão com opção de "Minha Conta" e "Sair".
 - [x] Botão (Mais Informação): Direcionar para seção de detalhes do filme/série. 
@@ -25,7 +27,7 @@ O projeto original reúne uma tela simplificada quando o usúario está conectad
 - [x] Titulo no Carrossel.
 - [x] Rodapé.
 
-
+<br/>
 ### Layout
 <p align="center">
     <img src="https://github.com/TamLuzs/Clone-InterfaceNetflix/blob/main/layout/home.png">
