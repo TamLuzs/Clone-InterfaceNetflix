@@ -28,6 +28,7 @@ O projeto original reúne uma tela simplificada quando o usúario está conectad
 - [x] Rodapé.
 
 <br/>
+
 ### Layout
 <p align="center">
     <img src="https://github.com/TamLuzs/Clone-InterfaceNetflix/blob/main/layout/home.png">
